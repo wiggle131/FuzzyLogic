@@ -1,0 +1,20 @@
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csprojAssemblyReference.cache
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\Edah Marie Bohol\Documents\GitHub\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\maxim\Desktop\Class stuff\Third Year First Sem C1\Intelligent Systems 2\My Activities\FuzzyLogic\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
